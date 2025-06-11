@@ -1,5 +1,5 @@
 # Encrypted-Notebook
-Encrypt and Decrypt Notebook Project
+            Encrypt and Decrypt Notebook Project
 <div align="center">
 
 ![Notebook Frame](https://github.com/user-attachments/assets/f9f87478-fb03-49d5-b79a-32ec78ca66f3)
