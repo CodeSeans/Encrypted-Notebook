@@ -1,4 +1,3 @@
-# Encrypted-Notebook
 <h1 align="center">Encrypt and Decrypt Notebook Project</h1>
 <div align="center">
 
